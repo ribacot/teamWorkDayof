@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teamWorkDayof/static/css/main.56a6f3fe.css",
+    "main.js": "/teamWorkDayof/static/js/main.b8a15261.js",
+    "index.html": "/teamWorkDayof/index.html",
+    "main.56a6f3fe.css.map": "/teamWorkDayof/static/css/main.56a6f3fe.css.map",
+    "main.b8a15261.js.map": "/teamWorkDayof/static/js/main.b8a15261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a6f3fe.css",
+    "static/js/main.b8a15261.js"
+  ]
+}
